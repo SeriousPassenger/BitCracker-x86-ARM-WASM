@@ -1,0 +1,7 @@
+range_start: 800000
+range_end: ffffff
+range_size: 10000
+workers: 4
+address: 1rSnXMr63jdCuegJFuidJqWxUPV7AtUf7
+found_keys_file: found_keys.txt
+
